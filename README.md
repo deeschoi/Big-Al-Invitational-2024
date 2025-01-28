@@ -10,9 +10,9 @@ This personal project tested and demonstrates my understanding of using SQL to a
 ## About
 
 The data used in this SQL project is from a Division 1 college swim meet I attended and competed at in December of 2024. All data used in these SQL files were extracted from the internet, entered into an excel file, cleaned, and converted to a CSV file before being inputted into the actual code.  
-Currently, this project contains information regarding all swimmers present at the meet from all four schools in attendance (*Columbia University, George Washington University, University of Pennsylvania, & Princeton University*), a list of races(events) that took place during the finals session on Friday, the complete final results of all Friday events, and information regarding the pool records for said events.
+Currently, this project contains information regarding all swimmers present at the meet from all four schools in attendance (*Columbia University, George Washington University, University of Pennsylvania, & Princeton University*), a list of races(events) that took place during the finals session on Friday, the complete final results of all Friday events, and information regarding the pool records for said events.  
+*The software that is being used to run the SQL queries provided is **MySQL Workbench**.* <img src="https://github.com/user-attachments/assets/2ddc088d-3ad6-45b3-82f4-3023de0022ed" width = "95"/>
 
-*The software that is being used to run the SQL queries provided is **MySQL Workbench**.*
 
 ## Project Contents
 
