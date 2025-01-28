@@ -9,7 +9,7 @@ ORDER BY School,
 
 # 2. Count the number of swimmers from each school.
 SELECT 
-	School, COUNT(*) as "Swimmer Count"
+    School, COUNT(*) as "Swimmer Count"
 FROM swimmers
 GROUP BY School
 	ORDER BY School ASC;
@@ -22,7 +22,7 @@ FROM swimmers
 WHERE SEX = "W" AND School = "Pennsylvania"
 UNION ALL
 SELECT
-	NULL AS "Count",
+    NULL AS "Count",
     CONCAT(LastName, ", ", FirstName) AS "Penn Women"
 FROM swimmers
 WHERE SEX = "W" AND School = "Pennsylvania"
@@ -30,7 +30,7 @@ ORDER BY `Penn Women`;
 
 # 4. Count the number of swimmers from each state in the US. List them from states with the highest to lowest frequency
 SELECT
-	State, 
+    State, 
     COUNT(*) as "# of Swimmers"
 FROM swimmers
 WHERE Country = "USA"
@@ -40,10 +40,10 @@ ORDER BY `# of Swimmers` DESC;
 # 5. Display only international swimmers and what events they swam on Friday in alphabetical order.
 #	 List the women first, then men.
 SELECT	
-	swimmers.School,
-	CONCAT(swimmers.LastName, ", ", swimmers.FirstName) AS "Name",
-	EventList.EventName AS "Event Name", 
-	swimmers.SEX,
+    swimmers.School,
+    CONCAT(swimmers.LastName, ", ", swimmers.FirstName) AS "Name",
+    EventList.EventName AS "Event Name", 
+    swimmers.SEX,
     swimmers.Country
 FROM swimmers
 JOIN results
@@ -86,8 +86,8 @@ ORDER BY `Event #`, Final, Placement;
 
 # 7. Show any swimmers that broke a record and the time that they went
 SELECT
-	CONCAT(swimmers.FirstName, " ", swimmers.LastName) AS "Name",
-	EventList.EventName,
+    CONCAT(swimmers.FirstName, " ", swimmers.LastName) AS "Name",
+    EventList.EventName,
     results.FinalTime AS "New Pool Record",
     records.PoolRecord AS "Old Pool Record"
 FROM swimmers
@@ -112,9 +112,9 @@ ORDER BY EventList.EventName, results.FinalTime; 	# No pool records were broken 
 # 8. Display swimmers that got either a 'Division I A' or 'Division I B' time achievement
 # 	 State the specific event, swimmer name, school, country, and time as well
 SELECT
-	EventList.EventName AS "Event Name", 
-	CONCAT(swimmers.FirstName, " ", swimmers.LastName) AS "Name",
-	swimmers.School,
+    EventList.EventName AS "Event Name", 
+    CONCAT(swimmers.FirstName, " ", swimmers.LastName) AS "Name",
+    swimmers.School,
     swimmers.SEX,
     swimmers.Country,
     results.FinalTime, 
