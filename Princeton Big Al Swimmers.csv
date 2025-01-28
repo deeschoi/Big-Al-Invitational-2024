@@ -1,0 +1,237 @@
+School,SwimcloudID,LastName,FirstName,SEX,Class,City,State,Country
+Columbia,1505111,Avansino,Mia,W,SO,Bellevue,WA,USA
+Columbia,2341026,Bondarenko,Valeria,W,FR,Larkspur,CA,USA
+Columbia,1681050,Cui,Annabel,W,FR,Bellevue,WA,USA
+Columbia,1375167,Diaz,Natalia,W,SO,Clarksville,MD,USA
+Columbia,1216449,Dunn,Grace,W,JR,Phoenix,AZ,USA
+Columbia,484371,Hailu,Hannah,W,SR,Omaha,NE,USA
+Columbia,1621780,Hong,Ashley,W,FR,Los Altos,CA,USA
+Columbia,402957,Hu,Ashley,W,SR,Scarsdale,NY,USA
+Columbia,1335091,Kim,Olivia,W,JR,Pleasanton,CA,USA
+Columbia,1589176,Kloppenburg,Sophie,W,SO,Mount Vernon,INd.,USA
+Columbia,1516164,Kung,Annabelle,W,SO,Briarcliff,NY,USA
+Columbia,1759071,Lee,Isabel,W,FR,Ridgewood,NJ,USA
+Columbia,1811290,Leung,Chloe,W,JR,Menlo Park,CA,USA
+Columbia,678189,Ma,Sally,W,JR,Champaign,IL,USA
+Columbia,510742,MacDonald,Emily,W,SR,Kingston,,JAM
+Columbia,1498085,MacNamara,Jillian,W,FR,River Forrest,IL,USA
+Columbia,1155423,Martin,Allison,W,SR,McLean,VA,USA
+Columbia,444888,Mehta,Aastha,W,SR,Mountain View,CA,USA
+Columbia,1179085,Orringer,Lindsay,W,JR,Ann Arbor,MI,USA
+Columbia,632217,Page,Lorelai,W,SO,Mountain Lakes,NJ,USA
+Columbia,1182840,Phillips,Charlize,W,JR,Fresno,CA,USA
+Columbia,1560880,Pine,Macy,W,SR,Los Angeles,CA,USA
+Columbia,405030,Pujadas,Riley,W,SR,Devon,PA,USA
+Columbia,478408,Reed,Hayley,W,JR,Carmel,IN,USA
+Columbia,856931,Saunders,Hutton,W,JR,Greenwich,CT,USA
+Columbia,1162289,Stewart,Meredith,W,SO,Cleveland Heights,OH,USA
+Columbia,1309776,Unas,Julia,W,SR,Santa Clarita,CA,USA
+Columbia,1328049,Wang,Emily,W,SO,Basking Ridge,NJ,USA
+Columbia,404907,Whang,Taylor,W,SR,Park Ridge,NJ,USA
+Columbia,1805604,Wolk,Audrey,W,FR,Chapel Hill,NC,USA
+Columbia,752457,Wong,Anthea,W,SR,,,HKG
+Columbia,1337591,Zeng,Kayla,W,FR,Longmeadow,MA,USA
+Columbia,1265175,Zhou,Grace,W,JR,Bridgewater,NJ,USA
+Columbia,664732,Apodaca,Caleb,M,SR,Napa,CA,USA
+Columbia,1127289,Beers,Isaac,M,JR,Poulsbo,WA,USA
+Columbia,1462506,Binder,Alekos,M,FR,Los Angeles,CA,USA
+Columbia,417686,Cai,Allen,M,SO,Ontario,CA,USA
+Columbia,1273892,Canteros-Paz,Lucas,M,JR,Basking Ridge,NJ,USA
+Columbia,1485507,Carter,Holden,M,FR,North Liberty,IA,USA
+Columbia,445179,Cho,Joshua,M,SR,Laguna Niguel,CA,USA
+Columbia,1561160,Choi,Ian,M,SO,Goyang-si,,KOR
+Columbia,1319163,Cicman,Logan,M,JR,Mount Pleasant,TX,USA
+Columbia,1684268,Cooley,William,M,FR,Durham,NC,USA
+Columbia,1455836,Corn,Joshua,M,SO,Morrison,CO,USA
+Columbia,933290,Demir,Demirkan,M,SR,Istanbul,,TUR
+Columbia,633996,Dettloff,Dylan,M,SO,Sheboygan,WI,USA
+Columbia,1188312,Dietz,William,M,SO,Chagrin Falls,OH,USA
+Columbia,1290574,Eckert,Sam,M,JR,Tyler,TX,USA
+Columbia,1280679,Elmasry,Ali,M,JR,Clifton,NJ,USA
+Columbia,619393,Engel,Jack,M,SR,Mount Kisco,NY,USA
+Columbia,665032,Fouty,Andrew,M,SR,Spanish Fort,AL,USA
+Columbia,1292786,James,Zion,M,JR,Memphis,TN,USA
+Columbia,1414856,Key,Bryce,M,FR,Mansfield,TX,USA
+Columbia,1136240,Lee,Dongjun,M,JR,Seoul,,KOR
+Columbia,1127296,Lou,Matthew,M,JR,Irvine,CA,USA
+Columbia,1739909,Makouar,Ryan,M,FR,La Ca–ada Flintridge,CA,USA
+Columbia,2137126,Nicol,Joseph,M,JR,Bradford,,ENG
+Columbia,1498184,Obochi,Kevin,M,SO,Highland Park,IL,USA
+Columbia,1496075,Pak,Ryan,M,SO,Auburn,WA,USA
+Columbia,1356819,Paligorov,Ivan,M,SO,Sofia,,BGR
+Columbia,510665,Pragnell,Tristan,M,SR,New York,NY,USA
+Columbia,1131132,Roach,Seth,M,JR,Fayetteville,GA,USA
+Columbia,1614329,Sacca,David,M,SO,New York City,NY,USA
+Columbia,1383726,Santos,Gian,M,FR,Rancho Santa Margarita,CA,USA
+Columbia,852155,Troy,Padraig,M,JR,Long Beach,IN,USA
+Columbia,1492859,Vasser,Zachary,M,SO,Linwood,NJ,USA
+Columbia,661103,Wu,Yu Tong,M,JR,Surrey,BC,USA
+Columbia,1331576,Yan,Jerry,M,FR,Rancho Santa Margarita,CA,USA
+Columbia,1154958,Yang,Beri,M,SO,Gilbert,AZ,USA
+Columbia,1340341,Zhang,Lucas,M,FR,Toronto,,CAN
+Columbia,1302781,Zhang,Michael,M,JR,Alexandria,VA,USA
+Columbia,506151,Zhukov,Stephen,M,FR,Knoxville,TN,USA
+Pennsylvania,405004,Bergstrom,Sydney,W,JR,Swarthmore,PA,USA
+Pennsylvania,520164,Blom,Brooke,W,SR,Barboursville,WV,USA
+Pennsylvania,806778,Boeckman,Anna,W,JR,Greenwich,CT,USA
+Pennsylvania,399894,Chong,Vanessa,W,SR,New York,NY,USA
+Pennsylvania,1821664,Druhan,Abby,W,FR,Charlotte,NC,USA
+Pennsylvania,1334483,Eruslanova,Katya,W,SO,Havertown,PA,USA
+Pennsylvania,1481344,Fu,Kayla,W,FR,Sugar Land,TX,USA
+Pennsylvania,557428,Girotto,Amelia,W,SR,Bellevue,WA,USA
+Pennsylvania,1684078,Handley,Kate,W,SO,Weston,MA,USA
+Pennsylvania,1370553,Henriksen,Sophie,W,JR,St. Louis,MO,USA
+Pennsylvania,1331855,Holcomb,Meredith,W,SO,San Antonio,TX,USA
+Pennsylvania,1336551,Holliday,Charlotte,W,SO,Warren,NJ,USA
+Pennsylvania,2137128,Howard,Sadie,W,JR,Vancouver,BC,USA
+Pennsylvania,2944247,Hu,Margaret,W,FR,,,CAN
+Pennsylvania,1337845,Jacobs,Jenna,W,SO,Raleigh,NC,USA
+Pennsylvania,400014,Jiang,Joy,W,SR,Scarsdale,NY,USA
+Pennsylvania,422241,Johnson,Jillian,W,SR,McLean,VA,USA
+Pennsylvania,1368540,Levensten,Kate,W,SO,Lower Merion,PA,USA
+Pennsylvania,1504262,Maltsev,Erica,W,FR,Staten Island,NY,USA
+Pennsylvania,508351,McGowan,Keara,W,SR,New Lenox,IL,USA
+Pennsylvania,1335949,Moehn,Anna,W,JR,Alton,IL,USA
+Pennsylvania,478349,Morisi,Kiani,W,SR,Massapequa,NY,USA
+Pennsylvania,905563,Parker,Madeleine,W,SR,San Mateo,CA,USA
+Pennsylvania,509539,Pytel,Isabella,W,SR,Naperville,IL,USA
+Pennsylvania,1487042,Qin,Amy,W,FR,North Potomac,MD,USA
+Pennsylvania,2510684,Slayden,Sophie,W,SO,Austin,TX,USA
+Pennsylvania,1335227,Smith,Amber,W,JR,Lutherville,MD,USA
+Pennsylvania,568648,Stolberg,Emma,W,JR,Mooresville,NC,USA
+Pennsylvania,1219491,Straley,Maggie,W,SO,Seattle,WA,USA
+Pennsylvania,956951,Yang,Rachel,W,FR,Brooklyn,NY,USA
+Pennsylvania,502981,Zhang,Ruitong,W,FR,Vancouver,BC,USA
+Pennsylvania,628902,Armstrong,Truman,M,JR,Austin,TX,USA
+Pennsylvania,1457240,Campbell,Liam,M,SO,Bellevue,WA,USA
+Pennsylvania,774387,Curreri,James,M,JR,Kinnelon,NJ,USA
+Pennsylvania,1694282,Dang,Victor,M,FR,Palo Alto,CA,USA
+Pennsylvania,503883,Fallon,Matthew,M,SR,Warren,NJ,USA
+Pennsylvania,551557,Fu,Alex,M,JR,Sugarland,TX,USA
+Pennsylvania,507362,Gallagher,Daniel,M,SR,Suwanee,GA,USA
+Pennsylvania,1186989,Ham,Benji,M,SO,Los Angeles,CA,USA
+Pennsylvania,1332184,Hill,Xavier,M,JR,Denver,CO,USA
+Pennsylvania,1561161,Hopkins,Cody,M,SR,Mission Viejo,CA,USA
+Pennsylvania,1541585,Hou,Jeffrey,M,FR,Willowbrook,IL,USA
+Pennsylvania,1491577,Jiang,Kevin,M,FR,Scarsdale,NY,USA
+Pennsylvania,1054691,Koumendakos,Jonathan,M,SR,San Fernando,,PHL
+Pennsylvania,2434193,Lieberman,John,M,FR,New York,NY,USA
+Pennsylvania,876382,Malakhovets,Max,M,FR,Toronto,ON,USA
+Pennsylvania,1338880,Matsuyama,Neo,M,JR,Bethesda,MD,USA
+Pennsylvania,1145925,McGuirk,Ryan,M,JR,Minnetonka,MN,USA
+Pennsylvania,1150289,Melsom,Robert,M,SO,St. Petersburg,FL,USA
+Pennsylvania,1590865,Nguyen,Watson,M,FR,Dallas,TX,USA
+Pennsylvania,1745669,Nicholson,Cooper,M,FR,Chapel Hill,NC,USA
+Pennsylvania,822483,Sheils,Henry,M,JR,Huntington,WV,USA
+Pennsylvania,1415675,Spagnoletti,Evan,M,SO,Huntington,NY,USA
+Pennsylvania,563748,Trincher,Daniel,M,SR,Edgewater,NJ,USA
+Pennsylvania,1486213,Vinciguerra,Vincent,M,FR,East Setauket,NY,USA
+Pennsylvania,1509152,Whittington,Peter,M,SO,,,HKG
+Pennsylvania,1509152,Yeniay,Can,M,FR,Berwyn,PA,USA
+Pennsylvania,1473326,Zhang,Colin,M,FR,Buffalo Grove,IL,USA
+Pennsylvania,551401,Zhang,Weifan,M,SO,Houston,TX,USA
+Pennsylvania,1394912,Zhou,Andy,M,FR,Blue Bell,PA,USA
+Princeton,632218,Appleton,Emily,W,SR,Cohasset,MA,USA
+Princeton,2086101,Barnes,Natalie,W,SR,Aliso Viejo,CA,USA
+Princeton,1381191,Black,Grace,W,SO,Baltimore,MD,USA
+Princeton,1209535,Brown,Eliza,W,JR,Brookline,MA,USA
+Princeton,2212092,De Pree,Nicole,W,FR,Glastonbury,,ENG
+Princeton,1549471,Farquhar,Natalie,W,FR,Santa Rosa,CA,USA
+Princeton,455866,Hayes,Margaret,W,JR,Bainbridge Island,WA,USA
+Princeton,1375084,Isaieva,Kamilla,W,SO,Poltava,,UKR
+Princeton,1149756,Johnston,Sabrina,W,JR,Chappaqua,NY,USA
+Princeton,2404199,Katai,Donata,W,SO,Harare,,ZWE
+Princeton,509670,Korbly,Isabella,W,SR,Acton,MA,USA
+Princeton,931142,Lewitt,Caroline,W,JR,London,,ENG
+Princeton,2086102,Martinkus,Charlotte,W,JR,Weston,MA,USA
+Princeton,584931,McKenna,Mary,W,SO,Seaford,NY,USA
+Princeton,2086103,Noble,Ela,W,SR,Brisbane,,AUS
+Princeton,2250213,Noviello,Franesca,W,SR,Palm Beach,FL,USA
+Princeton,526260,Pappas,Alexa,W,SR,Weston,CT,USA
+Princeton,1274368,Rossouw,Veronique,W,SO,Pretoria,,RSA
+Princeton,1539580,Seltzer,Madelyn,W,SR,Scarsdale,NY,USA
+Princeton,1335017,Simecek,Edie,W,SO,Boulder,CO,USA
+Princeton,587296,Smithwick,Heidi,W,JR,Jupiter,FL,USA
+Princeton,2946318,Squire,Maggie,W,FR,Auckland,,NZL
+Princeton,555726,Sun,Eleanor,W,SO,Bethesda,MD,USA
+Princeton,1510390,Tucker,Dakota,W,SO,Johannesburg,,RSA
+Princeton,2348174,Walters,Jenna,W,FR,Guelph,ON,USA
+Princeton,1143477,Wheeler,Meg,W,JR,Perth,ON,USA
+Princeton,1366123,White,Katherine,W,FR,Novi,MI,USA
+Princeton,1358787,Balva,Arthur,M,SO,Palo Alto,CA,USA
+Princeton,1811182,Buck,Connor,M,SO,Durban,,RSA
+Princeton,2465712,Callanan,George,M,SR,Columbus,OH,USA
+Princeton,1623924,Caples,Devyn,M,FR,Pleasanton,CA,USA
+Princeton,1399596,Chen,Conan,M,FR,Villanova,PA,USA
+Princeton,1996146,Dinu,Patrick,M,FR,Constanta,,ROU
+Princeton,468910,Dowdall,Finn,M,SR,Phoenix,AZ,USA
+Princeton,404550,Feyerick,Brett,M,SR,Potomac,MD,USA
+Princeton,1905188,Gutierrez,Santiago,M,FR,Ciudad de MŽxico,,MEX
+Princeton,495513,Hong,Tyler,M,SR,Westlake,OH,USA
+Princeton,661945,Hunger,Maximilian,M,SR,Montreal,QC,USA
+Princeton,1127277,Kim,Daniel,M,JR,Demarest,NJ,USA
+Princeton,405119,Kim,Hunter,M,SR,New Rochelle,NY,USA
+Princeton,1163645,Lenoce,Parker,M,SO,Westport,CT,USA
+Princeton,1276879,Li,Daniel,M,SO,Austin,TX,USA
+Princeton,2334783,Makela,Rasmus,M,JR,Pori,,FIN
+Princeton,1762044,Marcus,Max,M,FR,Saint Louis,MO,
+Princeton,1182659,McKenna,Conor,M,JR,Frisco,TX,USA
+Princeton,1379165,Mlinek,Kael,M,JR,Lincoln,NE,USA
+Princeton,1467314,Noguchi,Logan,M,FR,Encinitas,CA,USA
+Princeton,1504623,Palmer,Curan,M,FR,Arlington,VA,USA
+Princeton,541719,Pan,James,M,JR,Maple Grove,MN,USA
+Princeton,576259,Romig,Benjamin,M,FR,Houston,TX,USA
+Princeton,1188574,Schott,Mitchell,M,JR,Newport Beach,CA,USA
+Princeton,1218229,Sech,Noah,M,SO,San Clemente,CA,USA
+Princeton,418177,Seidel,Maxwell,M,SR,Lexington,,SUI
+Princeton,1166797,Strobek,Lucas,M,JR,Hellerup,,DEN
+Princeton,526336,Swartwout,William,M,SR,Amityville,NY,USA
+Princeton,1337638,Tudoras,Lucas,M,JR,Sao Paulo,,BRA
+Princeton,455334,Wang,Aidan,M,SO,North Potomac,MD,USA
+Princeton,2241540,Zhang,Yanning,M,SO,Melbourne,,AUS
+Princeton,1344185,Zou,Andrew,M,FR,Austin,TX,USA
+George Washington,1261548,Bernosky,Taylor,W,SR,Scottsdale,AZ,USA
+George Washington,1284690,Clark,Abigail,W,JR,Cary,NC,USA
+George Washington,739689,Cleaver,Megan,W,FR,Springfield,VA,USA
+George Washington,2985921,Ebrahimi,Soraya,W,FR,Botenheim,,GER
+George Washington,504092,Fifer,Julia,W,JR,St.Charles,IL,USA
+George Washington,542324,Freitas,Moriah,W,SR,Orlando,FL,USA
+George Washington,2469653,Fyfe,Veronica,W,SO,Hillsdale,NJ,USA
+George Washington,1471653,Harris,Breuklynn,W,SO,Pleasanton,CA,USA
+George Washington,375968,Hernandez,Chloe,W,SR,Miami,FL,USA
+George Washington,1285391,Knox,Julia,W,SR,Craigavon,,NIR
+George Washington,1427766,MacWilliams,Colleen,W,SO,Salt Lake City,UT,USA
+George Washington,667142,McCormick,Kaylin,W,SR,Carlsbad,CA,USA
+George Washington,1098980,Paquette,Olivia,W,JR,Laguna Niguel,CA,USA
+George Washington,902252,Reyblat,Dara,W,SR,Sherman Oaks,CA,USA
+George Washington,453935,Rickert,Marlee,W,GR,Leesport,PA,USA
+George Washington,715590,Rosen,Olivia,W,SR,Parkland,FL,USA
+George Washington,1502051,Sayag,Isabel,W,FR,Tamp,FL,USA
+George Washington,1519669,Scully,Bryce,W,FR,Pleasant Ridge,MI,USA
+George Washington,1834985,Sens,Natalie,W,FR,Pittsburgh,PA,USA
+George Washington,2060895,Simpson,Kathryn,W,SO,Covina,CA,USA
+George Washington,526474,Smyers,Molly,W,SR,Allison Park,PA,USA
+George Washington,551601,Topolewski,Ava,W,JR,Grand Prairie,TX,USA
+George Washington,1176482,Boushee,Gage,M,FR,Lakeville,MN,USA
+George Washington,1762919,Bradley,Ben,M,SO,Norwalk,CT,USA
+George Washington,681031,Choi,Daniel,M,SO,Houston,TX,USA
+George Washington,680415,Clark,Justin,M,SR,Newton,MA,USA
+George Washington,1506273,Dostal,Justin,M,SO,Cincinnati,OH,USA
+George Washington,374635,Hawkins,Jason,M,JR,Stevenson Ranch,CA,USA
+George Washington,1326103,Irwin,Elliott,M,GR,Canberra,,AUS
+George Washington,2348960,Li,Shoonfon,M,FR,Horseheads,NY,USA
+George Washington,2984162,Lin,Preston,M,JR,Peachtree Corners,GA,USA
+George Washington,653027,Mlynarczyk,Karol,M,GR,Warsaw,,POL
+George Washington,587238,Moldovanu,Philip,M,SR,Boynton Beach,FL,USA
+George Washington,1261214,Nagy,Daniel,M,JR,Budapest,,HUN
+George Washington,1560877,Radjenovic,Matija,M,FR,Subotica,,SRB
+George Washington,1176327,Rodgers,Cameron,M,SO,Carmel,CA,USA
+George Washington,418396,Rodgers,Connor,M,SR,Carmel,CA,USA
+George Washington,547260,Sivaramakrishnan,Ganesh,M,JR,Pittsburgh,PA,USA
+George Washington,1498503,Sosnowski,Benjamin,M,SO,San Jose,CA,USA
+George Washington,1769464,Stratton,Shaedon,M,FR,Boise,ID,USA
+George Washington,1517341,Thomas,Holden,M,FR,Murrysville,PA,USA
+George Washington,1485575,Tobler,Artur,M,FR,Tallinn,,EST
+George Washington,1235562,Wheeler,Holden,M,SO,Buffalo Grove,IL,USA
+George Washington,1467791,Wood,AJ,M,JR,San Antonio,TX,USA
+George Washington,1531996,Wood,Michael,M,SO,Rochester,NY,USA
