@@ -6,8 +6,8 @@ CREATE TABLE records(
     PoolRecord		VARCHAR(100)    NOT NULL,
     RecordSchool	CHAR(100),
     RecordDate		INT,
-    D1A 		    VARCHAR(100),
-    D1B 		    VARCHAR(100),
+    D1A 		   VARCHAR(100),
+    D1B 		   VARCHAR(100),
     FOREIGN KEY (EventNum) REFERENCES EventList(EventNum)
 );
 
