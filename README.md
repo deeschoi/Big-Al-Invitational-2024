@@ -5,7 +5,7 @@
 
 <p align = "center"><img src="https://github.com/user-attachments/assets/2a8ac552-6c02-4cca-90fc-bdacfc9aec68" width="500" />
 
-This personal project tested and demonstrated my understanding of using SQL to analyze information derived from a larger data set. It allowed me to practice and improve my proficiency in extracting specific, desired pieces of data that could be applied to real world scenarios involving large companies or businesses.  
+This personal project tested and demonstrates my understanding of using SQL to analyze information derived from a larger data set. It allowed me to practice and improve my proficiency in extracting specific, desired pieces of data that could be applied to real world scenarios involving large companies or businesses.  
 
 ## About
 
