@@ -52,3 +52,5 @@ This four day long project was created to challenge my current SQL skills and fa
 The questions I devised and answered, while centered around the swim meet, were intentionally designed to mimic potential questions that companies or clients may present to a data analyst.  
 One of the challenges I encountered was quickly determining the appropriate key to use  when combining information across different datasets. This led me to research the "JOIN...ON..." query being used in different examples, allowing me to continue solving the questions I had tasked upon myself.  
 Although I have completed the challenges I set for this project, it currently contains data only for the events swum during the Friday finals session. Moving forward this semester, I plan to continue adding information for the events swum on Saturday and Sunday with the goal of making this project fully comprehensive for all final sessions of the swim meet.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
